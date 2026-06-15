@@ -19,7 +19,7 @@ Currently working in a hospital and learning web development.
 
 💻 Interested in programming, technology and building useful things.
 
-🌱 I’m currently learning Python and JS.
+🌱 I’m currently learning Python and JavaScript.
 
 ⭐ Trying to turn ideas into projects.
 
